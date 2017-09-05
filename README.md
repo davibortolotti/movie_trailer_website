@@ -31,6 +31,6 @@ dreams = media.Movie(
 movies.append(dreams)   # appends to the list
 ```
 
-The website is also up and running on the internet [here](https:/davibortolotti.github.io).
+The website is also up and running on the internet [here](https://davibortolotti.github.io).
 
 Thanks Udacity.
