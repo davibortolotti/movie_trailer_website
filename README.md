@@ -4,7 +4,9 @@
 
 In order to run it, you must clone the repo and pull it to your desktop.
 Then, execute the `entertainment_center.py` file in a python shell, opening with Idle, or in a command line, by moving into the folder of the files and typing:
-`python entertainment_center.py`
+```
+python entertainment_center.py
+```
 
 It will create a file called `fresh_tomates.html`. If you open it with your browser, you will see the result.
 
