@@ -1,6 +1,6 @@
-# movie_trailer_website
+# Movie Trailer Website project
 
-## This is a project for Udacity "Full-stack developer" course.
+This is a project for Udacity "Full-stack developer" course.
 
 In order to run it, you must clone the repo and pull it to your desktop.
 Then, execute the `entertainment_center.py` file in a python shell, opening with Idle, or in a command line, by moving into the folder of the files and typing:
@@ -31,6 +31,6 @@ dreams = media.Movie(
 movies.append(dreams)   # appends to the list
 ```
 
-The site is also up and running at the URL (davibortolotti.github.io).
+The website is also up and running on the internet [here](davibortolotti.github.io).
 
 Thanks Udacity.
